@@ -5,7 +5,9 @@ To collect info about your company make file with researching networks and put n
 
 
 example:
+
 x.x.x.x
+
 x.x.x.x/x
 
 Then start program with two keys: shodan_key and file to path with networks:
