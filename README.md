@@ -19,7 +19,7 @@ git clone https://github.com/KrakenMSK/OSINT_Shodan_to_exel
 
 cd OSINT_Shodan_to_exel
 
-python3 install -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 python3 <shodan_key> <path_to_file_with_networks>
 
