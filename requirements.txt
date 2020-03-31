@@ -1,0 +1,6 @@
+xlwt
+openpyxl
+regex
+glob3
+subprocess.run
+shodan
