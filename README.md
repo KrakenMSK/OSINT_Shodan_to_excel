@@ -24,3 +24,7 @@ python3 -m pip install -r requirements.txt
 python3 <shodan_key> <path_to_file_with_networks>
 
 ###################################################################
+
+logs: all_collected_data.txt
+
+exel table: info_about_organization.xlsx
