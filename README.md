@@ -1,5 +1,5 @@
 # OSINT_Shodan_to_exel
-OSINT tool to collect info about organisation's networks and present it in .xlsx format
+OSINT tool to collect info about organization's networks and present it in .xlsx format
 
 To collect info about your company make file with researching networks and put networks to them.
 
