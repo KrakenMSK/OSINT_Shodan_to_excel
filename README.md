@@ -13,7 +13,7 @@ x.x.x.x/x
 Then start program with two keys: shodan_key and file to path with networks:
 
 
-###################################################################
+####################################################################
 
 git clone https://github.com/KrakenMSK/OSINT_Shodan_to_excel
 
@@ -23,7 +23,7 @@ python3 -m pip install -r requirements.txt
 
 python3 <shodan_key> <path_to_file_with_networks>
 
-###################################################################
+####################################################################
 
 logs: all_collected_data.txt
 
